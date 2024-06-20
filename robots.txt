@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://himplonth.github.io/sitemap
+Sitemap: https://himplonth.github.io/app/sitemap
+Sitemap: https://himplonth.github.io/assets/sitemap
+Sitemap: https://himplonth.github.io/css/sitemap
+Sitemap: https://himplonth.github.io/includes/sitemap
+Sitemap: https://himplonth.github.io/item/sitemap
+Sitemap: https://himplonth.github.io/src/sitemap
